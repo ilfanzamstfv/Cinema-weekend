@@ -4,3 +4,7 @@
 <a href="https://linkedin.com/in/ilfanza" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/ilfanzamstfv" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+<h3 align='center'> Join with us : </h3>
+<p align='center'>
+  <a href="https://discord.gg/AF7NDqYXvt" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
