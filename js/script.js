@@ -25,15 +25,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // script.js
-welcomeSpeech();
-
-function welcomeSpeech() {
-    let userName = prompt("What is your name?");
-    if (userName != '') {
-        document.getElementById('user-name').textContent = userName;
-    }
-}
-
 
 // Toggle mobile menu
 const navToggle = document.getElementById('nav-toggle');
